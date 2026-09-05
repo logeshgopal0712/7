@@ -21,22 +21,28 @@ content:
     path: data/company/company.json
     format: json
     list: true
+    
     fields:
       - name: companyName
         label: CompanyName
         type: string
+        
       - name: logo
         label: Logo
         type: image
+        
       - name: yearStarted
         label: YearStarted
         type: number
+        
       - name: tagline
         label: TagLine
         type: string
+        
       - name: description
         label: Description
         type: text
+        
       - name: about
         label: About
         type: text
