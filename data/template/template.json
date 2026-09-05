@@ -1,0 +1,10 @@
+{
+  "templateId": "logo-left",
+  "primaryColor": "#5f7bec",
+  "secondaryColor": "#c9d9e8",
+  "usePageColor": true,
+  "pageColor": "#e8d4e2",
+  "transparentPageColor": true,
+  "pageColorOpacity": 20,
+  "font": "modern"
+}
